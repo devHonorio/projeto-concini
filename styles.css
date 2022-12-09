@@ -80,7 +80,7 @@ section {
 .fazer-pedido:hover {
 	background-color: #ce6a00;
 }
-.fazer-pedido:active {
+.fazer-pedido:focus {
 	border: solid #ff8400 1px;
 	background-color: #ededed;
 	color: #ff8400;
